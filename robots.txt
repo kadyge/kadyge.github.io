@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://kadyge.github.io/hiL/sitemap.hiL.gz
